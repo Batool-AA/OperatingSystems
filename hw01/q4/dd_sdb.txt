@@ -1,0 +1,45 @@
+write
+1+0 records in
+1+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 0.0143744 s, 3.6 GB/s
+read
+1+0 records in
+1+0 records out
+52428800 bytes (52 MB, 50 MiB) copied, 0.028902 s, 1.8 GB/s
+
+write
+1+0 records in
+1+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.0339685 s, 3.1 GB/s
+read
+1+0 records in
+1+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.0508227 s, 2.1 GB/s
+
+write
+1+0 records in
+1+0 records out
+157286400 bytes (157 MB, 150 MiB) copied, 0.0477671 s, 3.3 GB/s
+read
+1+0 records in
+1+0 records out
+157286400 bytes (157 MB, 150 MiB) copied, 0.0769977 s, 2.0 GB/s
+
+write
+1+0 records in
+1+0 records out
+209715200 bytes (210 MB, 200 MiB) copied, 0.0599331 s, 3.5 GB/s
+read
+1+0 records in
+1+0 records out
+209715200 bytes (210 MB, 200 MiB) copied, 0.0972094 s, 2.2 GB/s
+
+write
+1+0 records in
+1+0 records out
+262144000 bytes (262 MB, 250 MiB) copied, 0.069005 s, 3.8 GB/s
+read
+1+0 records in
+1+0 records out
+262144000 bytes (262 MB, 250 MiB) copied, 0.120152 s, 2.2 GB/s
+
