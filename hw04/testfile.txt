@@ -1,0 +1,9 @@
+ Introduction
+ In today’s fast-paced digital world, efficient file transfer protocols are essential for managing large
+ datasets across networks. This assignment will give you hands-on experience in creating a multi
+threaded file transfer system. You will design both a server process to handle file requests and a
+ client process to request and reassemble files. The goal is to ensure the file is split, transmitted,
+ and reassembled correctly across concurrent connections while maintaining data integrity.
+ Rationale
+ As data transfer needs increase, especially in distributed systems, it’s crucial to understand how
+ concurrent file handling works. This assignment introduces multi-threaded programming

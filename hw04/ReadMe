@@ -1,0 +1,7 @@
+To run the server, you need to first run `make build-server` command and then run `make run-server` command.
+To run the client, you need to first run `make build-client` command and then run `make run-client` command. The command will prompt you to enter the file name and the number of segments.
+Alternatively, you can also run the `make run-tests` command to run the cases defined in tests.sh.
+
+Assumptions and Limitations:
+1. If checksum fails, the client does not ask for a resend, instead it just stops the transfer of the file and prints out the `File transfer incomplete` statement.
+2. All the data files used for testing have been removed, so the tester will have to add the files themselves.
